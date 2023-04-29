@@ -19,3 +19,8 @@ The kubeconfig file which is generated can be downloaded.
      # lke105686-157961-644d6b99af77   Ready    <none>   5m10s   v1.26.3
      
     
+## Add LKE Credentials to Jenkins
+![image](https://user-images.githubusercontent.com/18715119/235320561-133fd0fa-b955-48d0-8c5b-30ec98229fdc.png)
+![image](https://user-images.githubusercontent.com/18715119/235320580-b129a561-b74e-4b5b-af6b-713fc1727f84.png)
+
+Subsequently, we install the plugin to help us to use the kubeconfig file to execute kubectl commands.
