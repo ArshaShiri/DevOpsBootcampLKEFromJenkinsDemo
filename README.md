@@ -30,4 +30,10 @@ Subsequently, we install the plugin to help us to use the kubeconfig file to exe
 
 ## Configure Jenkinsfile to Deploy to LKE Cluster
 
+Jenkinsfile is modified to add the deployment step to Linode
+
+    # We can check the pod is running:
+    kubectl get pod
+     # NAME                                READY   STATUS     # RESTARTS   AGE
+     # nginx-deployment-55888b446c-rr6l9   1/1     Running    # 0          36s
 
