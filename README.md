@@ -27,3 +27,7 @@ Subsequently, we install the plugin to help us to use the kubeconfig file to exe
 
 ## Install Kubernetes CLI Plugin on Jenkins
 ![image](https://user-images.githubusercontent.com/18715119/235320709-b44fadfd-d71d-4afc-82e1-8bbe5050d4b3.png)
+
+## Configure Jenkinsfile to Deploy to LKE Cluster
+
+
