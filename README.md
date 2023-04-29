@@ -24,3 +24,6 @@ The kubeconfig file which is generated can be downloaded.
 ![image](https://user-images.githubusercontent.com/18715119/235320580-b129a561-b74e-4b5b-af6b-713fc1727f84.png)
 
 Subsequently, we install the plugin to help us to use the kubeconfig file to execute kubectl commands.
+
+## Install Kubernetes CLI Plugin on Jenkins
+![image](https://user-images.githubusercontent.com/18715119/235320709-b44fadfd-d71d-4afc-82e1-8bbe5050d4b3.png)
